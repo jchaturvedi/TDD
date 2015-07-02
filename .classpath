@@ -17,5 +17,26 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/JAR/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/docx4j-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/jaxb-core-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/jaxb-impl-2.2_1.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/org.eclipse.fx.javafx_2.2.0.201501310601.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/partner.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/slf4j-log4j12-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/slf4j-log4j12-1.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/tooling.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/wsc-23.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/xhtmlrenderer-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/xmlgraphics-commons-2.0.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

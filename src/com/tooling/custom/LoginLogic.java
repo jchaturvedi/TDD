@@ -90,7 +90,7 @@ public class LoginLogic {
 		}
 		
 		try {
-			wordMLPackage = WordprocessingMLPackage.load(new java.io.File("\\Jai\\Eclipse WS\\HerokuProj\\src\\com\\tooling\\custom\\Quality Initiative_TDD.docx"));
+			wordMLPackage = WordprocessingMLPackage.load(new java.io.File("C:\\Test\\Quality Initiative_TDD.docx"));
 		} catch (Docx4JException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -150,7 +150,7 @@ public class LoginLogic {
 			
 			// 4. remove the template row
 		tempTable.getContent().remove(templateRow);
-		wordMLPackage.save(new java.io.File("C:\\result.docx"));
+		wordMLPackage.save(new java.io.File("C:\\Test\\result.docx"));
 		}
 	}
 	
